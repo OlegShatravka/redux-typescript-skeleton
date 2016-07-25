@@ -1,7 +1,7 @@
 {
   "name": "redux-typescript-skeleton",
   "version": "0.0.1",
-  "description": "test description",
+  "description": "Test description for request-pull testing",
   "scripts": {
     "postinstall": "tsd install",
     "server": "node server.js",
