@@ -1,7 +1,7 @@
 {
   "name": "redux-typescript-skeleton",
   "version": "0.0.1",
-  "description": "Test request-pull from feature branch. From local machine to GitHub.",
+  "description": "Test request-pull from feature branch. From local machine to GitHub. Mirror work test.",
   "scripts": {
     "postinstall": "tsd install",
     "server": "node server.js",
