@@ -1,7 +1,7 @@
 {
   "name": "redux-typescript-skeleton",
   "version": "0.0.1",
-  "description": "Test description from level_3. From level_2. From level_1",
+  "description": "Test request-pull from feature branch.",
   "scripts": {
     "postinstall": "tsd install",
     "server": "node server.js",
